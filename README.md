@@ -9,7 +9,7 @@ A collection of utility scripts written in C for automating tasks and improving 
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crafted_commands.git
+   git clone https://github.com/ilorez/crafted_commands.git
    ```
 2. Navigate to the script's directory and compile the `.c` files:
    ```bash
