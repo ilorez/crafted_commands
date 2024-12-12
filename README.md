@@ -35,3 +35,4 @@ A collection of utility scripts written in C for automating tasks and improving 
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
 
+:-]
